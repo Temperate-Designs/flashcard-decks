@@ -1,0 +1,18 @@
+{
+  "decks": [
+    {
+      "id": "preinstalled_citizenship",
+      "name": "US Citizenship Test",
+      "description": "All 100 civics questions for the naturalization test",
+      "version": 5,
+      "filename": "decks/us_citizenship.yaml"
+    },
+    {
+      "id": "preinstalled_citizenship_2025",
+      "name": "US Citizenship Test (2025 - 128 Questions)",
+      "description": "2025 version with 128 civics questions for naturalization test. Must answer 12 of 20 correctly to pass.",
+      "version": 5,
+      "filename": "decks/us_citizenship_2025.yaml"
+    }
+  ]
+}
