@@ -1,0 +1,283 @@
+version: 1
+id: preinstalled_ap_world_history
+name: AP World History
+description: 52 frequently tested AP World History terms and concepts, organized by unit
+
+cards:
+  # Unit 1: The Global Tapestry
+
+  - id: apwh_1
+    question: What is Dar al-Islam?
+    answer: |
+      "House of Islam" — the broad term for countries where Muslims can practice their religion freely and Islamic law prevails. Founded in the 600s, Islam spread from India to Spain within centuries. Muslim caliphates often tolerated different beliefs as long as non-Muslims paid a tax called a jizya. It enabled the expansion of Islamic trading networks.
+
+  - id: apwh_2
+    question: What is filial piety?
+    answer: |
+      A central virtue in Confucian thought emphasizing love, respect, and support for one's parents and ancestors. It also stresses courtesy, ensuring male heirs, upholding fraternity among brothers, and carrying out proper sacrifices after a parent's death. It has remained a common tradition running through most Chinese religious ideas.
+
+  - id: apwh_3
+    question: What was the Bhakti Movement?
+    answer: |
+      A Hindu devotional movement that flourished in the Medieval and early modern era, emphasizing music, dance, poetry, and rituals as means to achieve direct union with the divine. It is often seen as a social reformation in Hinduism that offered an individual-focused spiritual path regardless of one's birthright or gender.
+
+  - id: apwh_4
+    question: What is feudalism?
+    answer: |
+      A social and political system common in Europe between the 9th and 15th centuries following the fall of great European empires. Knights/vassals agreed to protect lords' lands in exchange for land (called fiefs). Those fiefs were farmed by peasants who paid taxes in exchange for living on the land. It was the dominant structure of medieval Western society.
+
+  - id: apwh_5
+    question: What is serfdom?
+    answer: |
+      A type of labor used in feudal systems where laborers (serfs) work the land in return for protection, but are legally bound to the land and their ruler — unable to leave or pursue a new occupation. It was common in medieval Europe and persisted in Russia until the mid-19th century.
+
+  - id: apwh_6
+    question: What was foot binding?
+    answer: |
+      A practice that began in 10th-century China where painful bindings were applied to young women's feet to stunt their growth. The small foot (called "lotus feet") became a symbol of feminine beauty and upper-class status, since it implied a woman did not need to use her feet for labor. The practice did not die out until the 20th century.
+
+  - id: apwh_7
+    question: What is Greco-Roman philosophy, and why does it matter for AP World History?
+    answer: |
+      The philosophical tradition of ancient Greece and Rome, grounded in logic, empirical observation, and the nature of political power. Unlike eastern philosophies such as Daoism, it was shaped by imperial expansion and the quest for practical political solutions. Key thinkers include Aristotle and Cicero. Understanding it is essential for understanding later Western civilization.
+
+  # Unit 2: Networks of Exchange
+
+  - id: apwh_8
+    question: What was the Silk Road?
+    answer: |
+      An ancient trade route (~200 BCE – ~1400 CE) connecting Asia with Europe, serving as the central artery of cultural, economic, and political exchange between the Pacific coast of China and the Mediterranean. It originated from Han Dynasty imperial expansion and opened trade between East and West.
+
+  - id: apwh_9
+    question: What was the Indian Ocean Trade network?
+    answer: |
+      Starting around 800 CE and flourishing by 1400, the Indian Ocean Trade was the world's richest maritime trading network alongside the Silk Road. It forged strong economic, social, and religious ties between lands, accelerated the spread of Islam, and helped birth city-states along the African coast.
+
+  - id: apwh_10
+    question: What are diasporic communities?
+    answer: |
+      Communities formed when merchants introduced their cultural traditions into indigenous cultures where they traded goods. Examples include Muslim merchants in the Indian Ocean region, Chinese merchants in Southeast Asia, Sogdian merchants in Central Asia, and Jewish communities along the Mediterranean, Indian Ocean, and Silk Road.
+
+  - id: apwh_11
+    question: What were the Inca Roads?
+    answer: |
+      A ~25,000-mile road network built by the Inca Empire (1438–1533) connecting centers of Incan control from present-day Colombia to Chile. One of the most impressive feats of pre-Columbian engineering, the roads enabled the empire to maintain control, move armies, facilitate trade, and encourage economic, political, and social growth.
+
+  - id: apwh_12
+    question: Who was Marco Polo and why is he significant?
+    answer: |
+      A 13th-century Venetian traveler who became the most famous European to reach eastern China. He traveled during the height of the Mongol Empire with the intent of opening cultural and economic trade, spending 24 years traveling. His often-embellished written accounts romanticized the East and inspired later explorers of the Age of Exploration, including Christopher Columbus.
+
+  - id: apwh_13
+    question: What was the Bubonic Plague (Black Death) and what were its effects?
+    answer: |
+      A devastating global epidemic of bubonic plague that struck Europe and Asia in the mid-1300s, spread via Mongol trade routes. It killed roughly one-third of Europe's population. It helped end feudalism, as labor shortages allowed peasants to leave lords' lands seeking higher wages, making land — previously the primary source of wealth — lose its value.
+
+  # Unit 3: Land-Based Empires
+
+  - id: apwh_14
+    question: What is mercantilism?
+    answer: |
+      An economic theory dominant in early modern Europe arguing that governments should regulate trade to accumulate wealth and outcompete rival nations. Mercantilist states often went to war over resources and pursued colonial expansion to maintain political supremacy. It is considered the birth of global capitalism.
+
+  - id: apwh_15
+    question: Who was Ivan IV (Ivan the Terrible) and why is he historically significant?
+    answer: |
+      Russia's first tsar, who confirmed the power of tsarist autocracy by attacking the authority of the boyars, expanded Russian territory, and established contacts with Western European commerce and culture. He grew increasingly volatile late in his reign, killed his only heir, and launched Russia into a prolonged "Time of Troubles."
+
+  - id: apwh_16
+    question: What was the Ming Dynasty?
+    answer: |
+      An imperial Chinese dynasty (1368–1644) during which China's population doubled and it expanded trade and mercantile networks with the outside world, including cultural ties with the West. The Ming Dynasty is also remembered for developments in Chinese culture, drama, literature, and world-renowned porcelain.
+
+  - id: apwh_17
+    question: What was the Qing Dynasty?
+    answer: |
+      The final imperial dynasty of China (1644–1911), which supplanted the Ming and propelled China further toward great-power status. Its longest-ruling emperor, Kangxi (61 years), standardized the Han language, funded detailed cartography, halted rebellions and Russian invasions, cut taxes, and pursued anti-corruption reforms. The Qing Dynasty is also noted for its isolationism.
+
+  - id: apwh_18
+    question: Who were the Manchu and what was their role in Chinese history?
+    answer: |
+      The people of Manchuria, an ethnic minority under Han Chinese control who revolted and founded the Qing Dynasty in the 17th century (lasting until 1912). While ruling, they celebrated their own culture (e.g., the "queue" hairstyle). As European influence grew, many Chinese blamed the "Manchu foreigners" for ceding too much control to European powers.
+
+  - id: apwh_19
+    question: What was the Ottoman Empire?
+    answer: |
+      One of the most formidable and lasting dynasties in world history, created by Turkish tribes in Anatolia in the late 14th century. It grew into an Islamic superpower controlling the Middle East, Eastern Europe, and North Africa for over 6 centuries. Power was concentrated in a Sultan. Mehmed II conquered Constantinople in 1453, ending the Byzantine Empire. It lays the foundation for modern Middle Eastern history.
+
+  - id: apwh_20
+    question: What were Martin Luther's 95 Theses?
+    answer: |
+      In 1517, German priest and theology professor Martin Luther reportedly posted 95 revolutionary proposals criticizing corruption in the Roman Catholic Church — particularly the sale of indulgences (certificates sold as access to heaven). Whether the act literally happened is debated, but it is considered the igniting moment of the Protestant Reformation, which shaped European history for the next century.
+
+  # Unit 4: Transoceanic Interconnections
+
+  - id: apwh_21
+    question: What was the Atlantic Slave Trade?
+    answer: |
+      The transportation, enslavement, and sale of African people — mainly to the Americas — by European slave traders from the 16th to the 19th centuries. It followed the triangular trade route and the Middle Passage, transporting between 10 and 12 million enslaved Africans across the Atlantic. Conditions were notoriously brutal, and it is essential to understanding the connections between global commerce and racism.
+
+  - id: apwh_22
+    question: What was the United Fruit Company and what does it represent?
+    answer: |
+      A US company that dominated the international banana and fruit trade in the late 19th–early 20th centuries. It exerted enormous influence over the politics, economics, and social structures of Latin American nations (giving rise to the term "banana republic"). It represents the role of multinational corporations in controlling developing countries and strengthening Western hegemony.
+
+  - id: apwh_23
+    question: What is a cash crop and why were they significant?
+    answer: |
+      A crop grown for profit rather than subsistence. Sugar is a prime example — a minor crop before European arrival in the Americas that became the dominant crop afterward. Cash crops had devastating effects on the environment, local economies, and health of populations, and typically relied on coerced or forced labor to maximize profit.
+
+  - id: apwh_24
+    question: What were joint-stock companies?
+    answer: |
+      Companies funded through collective stock ownership, where investors received shares proportional to their investment and corresponding influence in the company. Common in 15th-century Europe, they financed global exploration and colonial extraction. A famous example is the British Virginia Company, which began English colonization of North America. They were foundational to the rise of capitalism.
+
+  - id: apwh_25
+    question: What was the East India Company?
+    answer: |
+      A British trading company formed after England defeated the Spanish Armada, establishing trading posts throughout East and Southeast Asia to gain a share of the spice trade. It quickly evolved beyond trade into a political force, establishing strongholds and acting as an agent of British imperialism in India for nearly two centuries — one of the most consequential periods of East-West contact.
+
+  # Unit 5: Revolutions
+
+  - id: apwh_26
+    question: What was the Pueblo Rebellion (1680)?
+    answer: |
+      An organized revolt by Pueblo Indians against Spanish rule in New Mexico. After enduring forced Catholicism, severe punishments, and destruction of their sacred objects, the Pueblos launched a revolt on August 10, 1680 that killed 400 and forced the Spanish to flee. It is an early and important example of indigenous resistance to colonial rule and foreshadows the revolutionary era to come.
+
+  - id: apwh_27
+    question: Who was Montesquieu and what was his significance?
+    answer: |
+      A 17th-century French lawyer, political thinker, and author considered one of the great thinkers of the Enlightenment. He coined the term "despot" to criticize European rulers, championed the separation of powers and constitutionalism, and argued that citizens have a contractual relationship with government. His ideas provided intellectual foundations for the American and French Revolutions.
+
+  - id: apwh_28
+    question: What was the American Revolution?
+    answer: |
+      Beginning in 1775, American colonists revolted against British abuses including taxation without representation, the Quartering Act, and military violence. Independence was declared on July 4, 1776, and the war ended in 1783 with an American victory. It was one of the largest real-world applications of Enlightenment ideals (drawing from Paine, Locke, and Kant) and helped inspire the French Revolution.
+
+  - id: apwh_29
+    question: What was the French Revolution?
+    answer: |
+      A complex, multi-phase revolution beginning in 1789, driven by King Louis XVI's poor economic policies, growing wealth inequality, crop failures, and Enlightenment-inspired rhetoric. The Third Estate formed the National Assembly and stormed the Bastille on July 14, 1789, demanding reform. It culminated in the overthrow of the monarchy and execution of aristocrats (using the guillotine), reshaping French and world history.
+
+  - id: apwh_30
+    question: What is A Vindication of the Rights of Woman (1792)?
+    answer: |
+      A landmark work by Mary Wollstonecraft containing one of the earliest arguments for feminist philosophy. Using Enlightenment ideals of freedom and equality, she argued that women deserved the same fundamental rights as men, that women are essential to the nation as educators of children, that women deserve education, and that women should be companions rather than ornaments. It became a foundational text for 19th- and 20th-century feminist movements.
+
+  # Unit 6: Consequences of Industrialization
+
+  - id: apwh_31
+    question: What is Social Darwinism?
+    answer: |
+      A sociological theory applying Charles Darwin's concept of natural selection to human societies, positing that only the "fittest" survive in political and economic struggle. Advocated in the late 19th and early 20th centuries, it was used to justify political conservatism, imperialism, and racism, and to oppose social reform. It is now largely discredited but was an ideological accelerant of industrialization.
+
+  - id: apwh_32
+    question: What are spheres of influence?
+    answer: |
+      In international relations, areas in which a state or organization has cultural, economic, military, or political exclusivity without directly governing the territory. For example, European powers and the US exerted spheres of influence over China. Nations used spheres of influence to extract resources and project power during industrialization and imperial expansion.
+
+  - id: apwh_33
+    question: Who was Karl Marx and what were his key ideas?
+    answer: |
+      A German philosopher whose major works — The Communist Manifesto and Das Kapital — inspired communist regimes and revolutionary movements worldwide. His theory of historical materialism held that history is driven by class struggles rooted in capitalist modes of production. His labor theory of value argued a commodity's value is determined by average labor hours needed to produce it. Marxism became a central critique of industrial capitalism.
+
+  - id: apwh_34
+    question: What was convict labor and what were its consequences?
+    answer: |
+      A practice where criminals were forced into public service and manual labor, often under conditions similar to slavery, with high mortality rates. In Australia, convict labor in the 19th century drove a significant population increase, which contributed to a gold rush and eventual mass migration to the continent. It represents a form of coerced labor tied to capitalism.
+
+  - id: apwh_35
+    question: What was the Chinese Exclusion Act of 1882?
+    answer: |
+      A US law that suspended Chinese immigration for ten years and declared Chinese immigrants ineligible for naturalization. It was one of the most significant restrictions on free immigration in US history. Legal challenges by Chinese-Americans failed. It is significant for highlighting the intersection of racism and industrialization, and for cutting off the US from a major source of labor.
+
+  # Unit 7: Global Conflict
+
+  - id: apwh_36
+    question: What was the Great Depression and what were its global effects?
+    answer: |
+      Beginning with the collapse of the US stock market in 1929, the Great Depression caused worldwide economic stagnation — sharp declines in income and production, widespread unemployment, and loss of confidence in self-adjusting economies. Countries raised protective tariffs, and the US stopped investing in Europe. The resulting economic discontent gave rise to fascism across the world.
+
+  - id: apwh_37
+    question: What is fascism?
+    answer: |
+      A form of far-right, authoritarian hyper-nationalism characterized by dictatorial centralized power, forcible suppression of opposition, and strong regimentation of society and the economy. Gaining popularity in 20th-century Europe, fascist regimes (e.g., Hitler's Germany, Mussolini's Italy) operated as totalitarian one-party states that prepared for armed conflict and expansionism, leading to WWI and WWII.
+
+  - id: apwh_38
+    question: What was the Paris Peace Conference and the Treaty of Versailles?
+    answer: |
+      An international meeting held in January 1919 at Versailles to establish peace after WWI. Dominated by the "Big Four" (Great Britain, France, the US, and Italy), it produced the Treaty of Versailles, which ended WWI, created the League of Nations, redrew national boundaries in Europe, distributed German and Ottoman overseas territories as mandates to Britain and France, and imposed heavy reparations on Germany — conditions that laid the groundwork for WWII.
+
+  - id: apwh_39
+    question: What was the Holocaust?
+    answer: |
+      A systematic, state-sponsored plan orchestrated by Adolf Hitler during WWII to achieve German/Aryan supremacy by murdering Jews, non-conformists, homosexuals, non-Aryans, and people with disabilities. It resulted in the deaths of 11 million people. It is one of the darkest events in human history, representing a profound turning point in political, social, and cultural world history.
+
+  - id: apwh_40
+    question: What was the Russian Revolution of 1917?
+    answer: |
+      Two successive waves of revolution driven by widespread discontent with a corrupt and incompetent Tsar, famine, and poor WWI military performance. The first wave toppled the imperial government; the second brought the Bolsheviks (a far-left Marxist faction led by Vladimir Lenin) to power. Subsequent power struggles led to the rise of Joseph Stalin and the USSR, setting the stage for Russia's role in the 20th century.
+
+  - id: apwh_41
+    question: What is nationalism and why can it be dangerous?
+    answer: |
+      A strong feeling of pride and devotion toward one's country. While it can foster national solidarity, extreme nationalism — marked by anger, entitlement, and xenophobia — can lead to war and atrocity. Many 20th-century fascist movements were directly tied to intense nationalism, making it a central force behind WWI, WWII, and other global conflicts.
+
+  - id: apwh_42
+    question: What was the Spanish Civil War and why is it called a "dress rehearsal for WWII"?
+    answer: |
+      A civil war (1936–1939) in Spain in which right-wing military officers led by Francisco Franco (backed by Germany) fought the left-leaning government (backed by Russia). Franco won. It is called a "dress rehearsal for WWII" because it involved the same ideological conflicts — fascism vs. communism, dictatorship vs. democracy, class struggle, and religious warfare — that would define the larger global war to follow.
+
+  # Unit 8: Cold War and Decolonization
+
+  - id: apwh_43
+    question: What was the Indian National Congress?
+    answer: |
+      A broadly based Indian political party that, under Mohandas Gandhi in the 1920s–30s, advocated nonviolent noncooperation against British rule. The more radical "Home Rule wing" grew influential by appealing to India's diverse social classes. Some members endorsed swadeshi — boycotting British imports and promoting Indian-made goods. The party's successes pointed toward the broader decolonization era to come.
+
+  - id: apwh_44
+    question: What is decolonization?
+    answer: |
+      The process by which colonized nations achieved autonomy or independence from their European colonial rulers. Between 1945 and 1960, nearly 36 new states in Asia and Africa gained independence through revolution, peaceful compromise, or nonviolent protest. Newly independent nations varied widely in their outcomes — some achieved stable governments immediately; others experienced dictatorships or civil wars for decades.
+
+  - id: apwh_45
+    question: Who was Ho Chi Minh and why is he significant in world history?
+    answer: |
+      A Vietnamese Communist revolutionary leader during the Vietnam War. He led a decolonization movement that, after being denied support by the US and France, turned to revolution. He represents the Cold War binaries that decolonization efforts faced — caught between Soviet Communism and American Democracy. The Vietnam War became a major blight on US and French history, fueling opposition to colonialism and Cold War interventionism.
+
+  - id: apwh_46
+    question: What is the Israeli-Palestinian Conflict and how did it originate?
+    answer: |
+      In November 1947, the UN voted to divide British-mandate Palestine into a Jewish state and an Arab state. Violent clashes erupted almost immediately. As British forces withdrew, conflict escalated, with both sides committing violence. Infamous events like the massacre at Dayr Yāsīn and subsequent retaliatory attacks set a pattern of ongoing, cyclical violence that continues to the present day and shapes much of Middle Eastern geopolitics.
+
+  - id: apwh_47
+    question: What is a proxy war?
+    answer: |
+      An armed conflict between states or non-state actors acting on behalf of — but not involving directly — a major power. Major powers compete through proxies without directly confronting each other. Examples include the Spanish Civil War, USSR-US Cold War skirmishes in the Middle East and Eastern Europe, and the Vietnam War. Proxy wars are significant because they allow powerful nations to project influence and compete covertly.
+
+  # Unit 9: Globalization
+
+  - id: apwh_48
+    question: What is the military-industrial complex?
+    answer: |
+      A term popularized by President Dwight D. Eisenhower in his 1961 farewell address, warning that the close relationship between the defense industry and the nation's military could lead to dangerous policy decisions — specifically that defense companies could profit from war and thus incentivize it. The concept is frequently invoked in discussions of Western military intervention, the US prison system, and the motivations behind global military action.
+
+  - id: apwh_49
+    question: What is Pan-Africanism?
+    answer: |
+      An intellectual and political movement of the 20th–21st centuries built on the notion that all people of African descent share a common history and destiny. Particularly strong in the Americas (where the Atlantic slave trade left its mark), it ranges in expression from Rastafarianism to Black Power movements to the African Union. It has led to a surge in Black empowerment movements that have shaped modern history.
+
+  - id: apwh_50
+    question: What was the Green Revolution?
+    answer: |
+      A revolution in agricultural technology between the 1930s and 1960s (not involving violence or warfare). New disease-resistant, high-yielding crop varieties — particularly for wheat, corn, and grains — were developed and deployed globally. The result was that nations could produce more food than needed for their populations, expanding the agriculture industry and increasing food access worldwide.
+
+  - id: apwh_51
+    question: What is the World Health Organization (WHO)?
+    answer: |
+      A United Nations specialized agency established in 1948, headquartered in Geneva, Switzerland, with six regional offices and 150 field offices worldwide. Its mission is "the attainment by all peoples of the highest possible level of health." It advocates for universal healthcare, monitors public health risks, coordinates responses to health emergencies, promotes human well-being, sets international health standards, and collects global health data.
+
+  - id: apwh_52
+    question: What was NAFTA (North American Free Trade Agreement)?
+    answer: |
+      An agreement signed by Canada, Mexico, and the United States that created a trilateral North American trade zone, taking effect January 1, 1994. It eliminated most tariffs on goods traded between the three countries — with a focus on agriculture, textiles, and automobile manufacturing — and included protections for intellectual property, dispute resolution mechanisms, and labor and environmental safeguards. It defined North American commerce for the next several decades.

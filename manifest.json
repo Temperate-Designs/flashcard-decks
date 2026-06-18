@@ -13,6 +13,13 @@
       "description": "2025 version with 128 civics questions for naturalization test. Must answer 12 of 20 correctly to pass.",
       "version": 6,
       "filename": "decks/us_citizenship_2025.yaml"
+    },
+    {
+      "id": "preinstalled_ap_world_history",
+      "name": "AP World History",
+      "description": "52 frequently tested AP World History terms and concepts, organized by unit",
+      "version": 1,
+      "filename": "decks/ap_world_history.yaml"
     }
   ]
 }
